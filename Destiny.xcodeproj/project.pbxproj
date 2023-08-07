@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		43C6BA302A80070300847098 /* Destini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Destini.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43C6BA302A80070300847098 /* Destiny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Destiny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C6BA332A80070300847098 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43C6BA352A80070300847098 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		43C6BA372A80070300847098 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		43C6BA272A80070300847098 = {
 			isa = PBXGroup;
 			children = (
-				43C6BA322A80070300847098 /* Destini */,
+				43C6BA322A80070300847098 /* Destiny */,
 				43C6BA312A80070300847098 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		43C6BA312A80070300847098 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				43C6BA302A80070300847098 /* Destini.app */,
+				43C6BA302A80070300847098 /* Destiny.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		43C6BA322A80070300847098 /* Destini */ = {
+		43C6BA322A80070300847098 /* Destiny */ = {
 			isa = PBXGroup;
 			children = (
 				43C6BA492A800B8900847098 /* Model */,
@@ -69,7 +69,7 @@
 				43C6BA3E2A80070500847098 /* LaunchScreen.storyboard */,
 				43C6BA412A80070500847098 /* Info.plist */,
 			);
-			path = Destini;
+			path = Destiny;
 			sourceTree = "<group>";
 		};
 		43C6BA472A800B6A00847098 /* View */ = {
@@ -100,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		43C6BA2F2A80070300847098 /* Destini */ = {
+		43C6BA2F2A80070300847098 /* Destiny */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43C6BA442A80070500847098 /* Build configuration list for PBXNativeTarget "Destini" */;
+			buildConfigurationList = 43C6BA442A80070500847098 /* Build configuration list for PBXNativeTarget "Destiny" */;
 			buildPhases = (
 				43C6BA2C2A80070300847098 /* Sources */,
 				43C6BA2D2A80070300847098 /* Frameworks */,
@@ -112,9 +112,9 @@
 			);
 			dependencies = (
 			);
-			name = Destini;
+			name = Destiny;
 			productName = Destini;
-			productReference = 43C6BA302A80070300847098 /* Destini.app */;
+			productReference = 43C6BA302A80070300847098 /* Destiny.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -132,7 +132,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 43C6BA2B2A80070300847098 /* Build configuration list for PBXProject "Destini" */;
+			buildConfigurationList = 43C6BA2B2A80070300847098 /* Build configuration list for PBXProject "Destiny" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -145,7 +145,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				43C6BA2F2A80070300847098 /* Destini */,
+				43C6BA2F2A80070300847098 /* Destiny */,
 			);
 		};
 /* End PBXProject section */
@@ -377,7 +377,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		43C6BA2B2A80070300847098 /* Build configuration list for PBXProject "Destini" */ = {
+		43C6BA2B2A80070300847098 /* Build configuration list for PBXProject "Destiny" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43C6BA422A80070500847098 /* Debug */,
@@ -386,7 +386,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		43C6BA442A80070500847098 /* Build configuration list for PBXNativeTarget "Destini" */ = {
+		43C6BA442A80070500847098 /* Build configuration list for PBXNativeTarget "Destiny" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43C6BA452A80070500847098 /* Debug */,
